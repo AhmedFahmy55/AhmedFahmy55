@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fahmy</h1>
 <h3 align="center">Creative Game Developer who believes that games is your best friends</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/627811/screenshots/3233907/unity.gif">
 
 <p align="left"> <a href="https://twitter.com/@ahmed_kizaro" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmed_kizaro?logo=twitter&style=for-the-badge" alt="@ahmed_kizaro" /></a> </p>
 
