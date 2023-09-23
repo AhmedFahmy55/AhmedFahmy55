@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@ahmed_kizaro" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmed_kizaro?logo=twitter&style=for-the-badge" alt="@ahmed_kizaro" /></a> </p>
 
-- 🔭 I’m currently working on **Golden alchemy VR**
+- 🔭 I’m currently working on **Greed Island RPG**
 
-- 🌱 I’m currently learning **Unity VRTK**
-
-- 💬 Ask me about **Unity,C#,Java**
+- 🌱 I’m currently learning **Netcode for Game Object (NGO)**
 
 - 📫 How to reach me **ahmedfahmydev55@gmail.com**
 
